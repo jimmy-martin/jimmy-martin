@@ -27,7 +27,7 @@ class Bio extends DeveloppeurWeb {
   nom      = 'Martin';
   titre    = 'Développeur Web';
   ville    = 'Paris, FRANCE';
-  formation   = 'Développeur Web et Web Mobile ( Ecole O'clock )'
+  formation   = 'Développeur Web et Web Mobile ( Ecole Oclock )'
 }
 
 class Skills extends DeveloppeurWeb {
