@@ -47,7 +47,23 @@ Ensuite, j'ai décidé de rejoindre l'école O'clock pour une formation Dévelop
 
 Après cette formation, je souhaiterais continuer mes études en alternance, dans un établissement dans lequel la pratique est au coeur de l'apprentissage et dans lequel je me sens bien.
 
-## Technologies favorites
+## Technologies
+- Langages: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
+- Framework CSS: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
+- Base de données: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
+
+## Outils
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=FFFFFF)
+
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF)
+
+## Statistiques GitHub
 ![jimmy-martin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&theme=tokyonight)
 
 ## Me contacter
