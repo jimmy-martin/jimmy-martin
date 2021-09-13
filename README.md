@@ -48,7 +48,7 @@ Ensuite, j'ai décidé de rejoindre l'école O'clock pour une formation Dévelop
 Après cette formation, je souhaiterais continuer mes études en alternance, dans un établissement dans lequel la pratique est au coeur de l'apprentissage et dans lequel je me sens bien.
 
 ## Technologies favorites
-![jimmy-martin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&theme=tokyonight&layout=compact)
+![jimmy-martin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&theme=tokyonight)
 
 ## Me contacter
 
