@@ -35,7 +35,7 @@ class Skills extends DeveloppeurWeb {
   databases   = ['MySQL'];
   frameworks  = ['Bootstrap'];
   systemes    = ['Windows', 'Linux'];
-  utilitaires = ['Git (GitHub)'];
+  utilitaires = ['Git (GitHub)', 'Composer'];
   logiciels   = ['Visual Studio Code'];
   bureautique = ['Microsoft Office', 'Google Docs'];
 }
