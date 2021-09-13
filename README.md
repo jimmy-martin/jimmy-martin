@@ -31,8 +31,9 @@ class Bio extends DeveloppeurWeb {
 }
 
 class Skills extends DeveloppeurWeb {
-  langages    = ['PHP (Orienté Objet)', 'JavaScript', 'HTML', 'CSS'];
+  langages    = ['PHP', 'JavaScript', 'HTML', 'CSS'];
   databases   = ['MySQL'];
+  frameworks  = ['Bootstrap'];
   systemes    = ['Windows', 'Linux'];
   utilitaires = ['Git (GitHub)'];
   logiciels   = ['Visual Studio Code'];
