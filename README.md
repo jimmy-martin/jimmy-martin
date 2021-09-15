@@ -74,3 +74,7 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 <a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
  <a href="mailto:jimmy.martin952@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+## Plus d'infos
+![coding languages](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/ee9335d5-9ab8-467a-95eb-c2aac76cdb6e.svg)
+![coding activity](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/5cd1ad10-12df-43bf-8a57-d91ad7e7f2d0.svg)
