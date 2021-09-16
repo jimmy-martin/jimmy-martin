@@ -20,27 +20,7 @@ Here are some ideas to get you started:
 
 Bienvenue sur mon profil GitHub !
 
-```php
-namespace App/Metier;
-
-class Bio extends DeveloppeurWeb {
-  prenom   = 'Jimmy';
-  nom      = 'Martin';
-  titre    = 'Développeur Web';
-  ville    = 'Paris, FRANCE';
-  formation   = 'Développeur Web et Web Mobile ( Ecole Oclock )'
-}
-
-class Skills extends DeveloppeurWeb {
-  langages    = ['PHP', 'JavaScript', 'HTML', 'CSS'];
-  databases   = ['MySQL'];
-  frameworks  = ['Bootstrap'];
-  systemes    = ['Windows', 'Linux'];
-  utilitaires = ['Git (GitHub)', 'Composer'];
-  logiciels   = ['Visual Studio Code'];
-  bureautique = ['Microsoft Office', 'Google Docs'];
-}
-```
+Moi, c'est Jimmy, j'ai 21 ans et j'habite à Sarcelles, dans le Val-d'Oise en région parisienne.
 
 Passionné d'informatique et de tech, j'ai d'abord entrepris un BTS SIO (Services Informatiques aux Organisations) que j'ai arrêté au bout d'un an.
 
@@ -76,5 +56,5 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 </p>
 
 ## Plus d'infos
-![coding languages](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/ee9335d5-9ab8-467a-95eb-c2aac76cdb6e.svg)
+![coding languages](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/5b74f7c8-ab48-4001-bfec-efe61c6c2d00.svg)
 ![coding activity](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/5cd1ad10-12df-43bf-8a57-d91ad7e7f2d0.svg)
