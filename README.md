@@ -44,8 +44,13 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF)
 
-## Statistiques GitHub
-![jimmy-martin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&theme=tokyonight)
+## Mes statistiques liées à la programmation
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&count_private=true&theme=tokyonight&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&count_private=true&theme=tokyonight&layout=compact" />
+</a>
 
 ## Me contacter
 
@@ -54,7 +59,3 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 <a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
  <a href="mailto:jimmy.martin952@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-## Plus d'infos
-![coding languages](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg)
-![coding activity](https://wakatime.com/share/@8442c8e8-4e55-45ff-b1c2-20afa50a5180/02f8f29d-0eba-4998-97f8-3fc751186f76.svg)
