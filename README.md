@@ -29,7 +29,7 @@ Ensuite, j'ai décidé de rejoindre l'école O'clock pour une formation Dévelop
 Après cette formation, je souhaiterais continuer mes études en alternance, dans un établissement dans lequel la pratique est au coeur de l'apprentissage et dans lequel je me sens bien.
 
 ## Technologies
-- Langages: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
+- Langages: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
 - Frameworks: ![Lumen](https://img.shields.io/badge/-Lumen-f4645f?style=flat&logo=lumen&logoColor=FFFFFF)  ![Symfony](https://img.shields.io/badge/-Symfony-FFFFFF?style=flat&logo=symfony&logoColor=000000)
 - Frameworks CSS: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF) ![Bulma](https://img.shields.io/badge/-Bulma-00d1b2?style=flat&logo=bulma&logoColor=FFFFFF)
 - Base de données: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
