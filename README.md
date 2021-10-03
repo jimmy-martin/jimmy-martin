@@ -29,21 +29,20 @@ Ensuite, j'ai décidé de rejoindre l'école O'clock pour une formation Dévelop
 Après cette formation, je souhaiterais continuer mes études en alternance, dans un établissement dans lequel la pratique est au coeur de l'apprentissage et dans lequel je me sens bien.
 
 ## Technologies
-- Langages: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
-- Frameworks: ![Lumen](https://img.shields.io/badge/-Lumen-f4645f?style=flat&logo=lumen&logoColor=FFFFFF)  ![Symfony](https://img.shields.io/badge/-Symfony-FFFFFF?style=flat&logo=symfony&logoColor=000000)
-- Frameworks CSS: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF) ![Bulma](https://img.shields.io/badge/-Bulma-00d1b2?style=flat&logo=bulma&logoColor=FFFFFF)
-- Base de données: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
+- Langages: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- Frameworks: ![Lumen](https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=symfony&logoColor=white)
+- Frameworks CSS: ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/Bulma-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
+- Base de données: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Outils
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=FFFFFF)
-
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Mes statistiques liées à la programmation
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin">
@@ -57,7 +56,7 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 ## Me contacter
 
 <p>
-<a href="https://www.linkedin.com/in/jimmy-martin-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-martin-dev/" alt="jimmy-martin-linkedin"/></a>
-<a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
+<a href="https://www.linkedin.com/in/jimmy-martin-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-martin-dev/" alt="jimmy-martin-linkedin"/></a>
+<a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
  <a href="mailto:jimmy.martin952@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
