@@ -44,6 +44,15 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+## Me contacter
+
+<p>
+<a href="https://www.linkedin.com/in/jimmy-martin-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-martin-dev/" alt="jimmy-martin-linkedin"/></a>
+<a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
+ <a href="mailto:jimmy.martin952@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
 ## Mes statistiques liées à la programmation
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin"/>
@@ -53,10 +62,4 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
   <img align="center" src="https://wakatime.com/share/@jimmy_martin/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg" style="width: 45rem"/>
 </a>
 
-## Me contacter
 
-<p>
-<a href="https://www.linkedin.com/in/jimmy-martin-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-martin-dev/" alt="jimmy-martin-linkedin"/></a>
-<a href="https://twitter.com/jimmydev_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jimmydev_" alt="jimmy-martin-twitter"/></a>
- <a href="mailto:jimmy.martin952@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
