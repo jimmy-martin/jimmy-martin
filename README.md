@@ -77,11 +77,6 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact"/>
 </a>
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jimmy_martin"/>
-</a>
-
 <a href="https://wakatime.com/share/@jimmy_martin/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg">
   <img align="center" src="https://wakatime.com/share/@jimmy_martin/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg"/>
 </a>
