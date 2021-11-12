@@ -83,8 +83,4 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com/share/@jimmy_martin/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg">
-  <img align="center" src="https://wakatime.com/share/@jimmy_martin/2bf4007b-b9cc-4e31-b383-b860b5aba64e.svg"/>
-</a>
-
 </div>
