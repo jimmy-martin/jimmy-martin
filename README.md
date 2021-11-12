@@ -87,8 +87,6 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
  > 
 > 📦 38.9 kB Utilisés avec le stockage de GitHub 
  > 
-> 🚫 N'a pas choisi d'embaucher
- > 
 > 📜 23 dépots publiques 
  > 
 > 🔑 1 dépot privé 
@@ -102,7 +100,7 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 🌙 Nuit       32 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 ```
-📅 **Je suis le plus productif sur Lundi** 
+📅 **Je suis le plus productif le Lundi** 
 
 ```text
 Lundi        274 commits    █████░░░░░░░░░░░░░░░░░░░░   22.81% 
