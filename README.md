@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="center" style="margin-bottom: 3rem">
 
 ## Présentation
 
@@ -79,6 +79,8 @@ Après cette formation, je souhaiterais continuer mes études en alternance, dan
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact"/>
 </a>
+
+</div>
 
 <!--START_SECTION:waka-->
 **🐱 Mes données GitHub** 
@@ -159,4 +161,4 @@ TypeScript               2 repos             ░░░░░░░░░░░�
  Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
-</div>
+
