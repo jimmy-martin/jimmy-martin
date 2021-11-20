@@ -24,11 +24,9 @@ Bienvenue sur mon profil GitHub !
 
 Moi, c'est Jimmy, j'ai 21 ans et j'habite à Sarcelles, dans le Val-d'Oise en région parisienne.
 
-Passionné d'informatique et de tech, j'ai d'abord entrepris un BTS SIO (Services Informatiques aux Organisations) que j'ai du arrêter au bout d'un an.
+Passionné d'informatique et de tech, j'ai d'abord entrepris un BTS SIO (Services Informatiques aux Organisations), puis, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile.
 
-Ensuite, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile.
-
-Après cette formation, je souhaiterais continuer mes études en alternance, dans un établissement dans lequel la pratique est au coeur de l'apprentissage et dans lequel je me sens bien.
+Après cette formation, mon objectif est de trouver un stage, puis de une continuer mes études en alternance.
 
 ## Technologies
 
