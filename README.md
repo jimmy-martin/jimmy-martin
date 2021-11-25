@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="margin-bottom: 3rem">
 
 ## Présentation
 
@@ -76,7 +75,7 @@ Après cette formation, mon objectif est de trouver un stage, puis de une contin
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact"/>
 </a>
 
-</div>
+
 
 <!--START_SECTION:waka-->
 **🐱 Mes données GitHub** 
