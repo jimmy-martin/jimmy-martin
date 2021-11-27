@@ -86,9 +86,9 @@ Après cette formation, mon objectif est de trouver un stage, puis de une contin
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
-> 📜 30 dépots publiques 
+> 📜 29 dépots publiques 
  > 
-> 🔑 2 dépots privés  
+> 🔑 3 dépots privés  
  > 
 **Je suis un 🐤 du matin** 
 
@@ -153,7 +153,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 
 
