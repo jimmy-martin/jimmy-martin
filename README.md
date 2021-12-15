@@ -78,11 +78,9 @@ Après cette formation, mon objectif est de trouver un stage, puis de une contin
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2028%20mins-blue)
-
 **🐱 Mes données GitHub** 
 
-> 🏆 2,107 Contributions en 2021
+> 🏆 2,109 Contributions en 2021
  > 
 > 📦 58.9 kB Utilisés sur le stockage de GitHub 
  > 
@@ -152,7 +150,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 
