@@ -25,7 +25,7 @@ Moi, c'est Jimmy, j'ai 21 ans et j'habite à Sarcelles, dans le Val-d'Oise en r�
 
 Passionné d'informatique et de tech, j'ai d'abord entrepris un BTS SIO (Services Informatiques aux Organisations), puis, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile.
 
-Après cette formation, mon objectif est de trouver un stage, puis de une continuer mes études en alternance.
+Après cette formation, mon objectif est de trouver un stage, puis de continuer mes études en alternance.
 
 ## Technologies
 
