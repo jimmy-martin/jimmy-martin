@@ -78,7 +78,7 @@ Après cette formation, mon objectif est de trouver un stage, puis de continuer 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2053%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -149,7 +149,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2022 01:50:19 UTC
+ Last Updated on 18/05/2022 01:41:49 UTC
 <!--END_SECTION:waka-->
 
 
