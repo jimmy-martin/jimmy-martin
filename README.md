@@ -92,45 +92,6 @@ Après cette formation, mon objectif est de trouver un stage, puis de continuer 
  > 
 > 🔑 5 dépots privés  
  > 
-**Je suis un 🐤 du matin** 
-
-```text
-🌞 Matin      571 commits    ████████░░░░░░░░░░░░░░░░░   33.75% 
-🌆 Journée    716 commits    ██████████░░░░░░░░░░░░░░░   42.32% 
-🌃 Soirée     358 commits    █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-🌙 Nuit       47 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
-
-```
-📅 **Je suis le plus productif le Lundi** 
-
-```text
-Lundi        345 commits    █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-Mardi        265 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Mercredi     239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Jeudi        249 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-Vendredi     331 commits    █████░░░░░░░░░░░░░░░░░░░░   19.56% 
-Samedi       107 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-Dimanche     156 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
-
-```
-
-
-📊 **Cette semaine, je passe mon temps sur** 
-
-```text
-⌚︎ Fuseau horaire: Europe/Paris
-
-💬 Langages: 
-Aucune activité enregistrée cette semaine
-
-🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
-
-💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
-
-```
-
 **Je code principalement en PHP** 
 
 ```text
@@ -144,7 +105,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2022 02:03:50 UTC
+ Last Updated on 22/08/2022 02:07:20 UTC
 <!--END_SECTION:waka-->
 
 
