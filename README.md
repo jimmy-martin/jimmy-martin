@@ -78,13 +78,13 @@ Après cette formation, mon objectif est de trouver un stage, puis de continuer 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2048%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 🏆 7 Contributions en 2022
  > 
-> 📦 63.8 kB Utilisés sur le stockage de GitHub 
+> 📦 63.9 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -121,13 +121,16 @@ Dimanche     156 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+JavaScript               1 min               █████████████████████░░░░   84.45% 
+PHP                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+S02-parcours-jimmy-martin1 min               █████████████████████░░░░   84.45% 
+www                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Linux                    1 min               █████████████████████░░░░   84.45% 
+Windows                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
 ```
 
@@ -144,7 +147,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2022 02:27:00 UTC
+ Last Updated on 30/08/2022 02:31:20 UTC
 <!--END_SECTION:waka-->
 
 
