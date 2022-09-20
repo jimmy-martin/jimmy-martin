@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 Bienvenue sur mon profil GitHub !
 
-Moi, c'est Jimmy, j'ai 21 ans et j'habite à Sarcelles, dans le Val-d'Oise en région parisienne.
+Moi, c'est Jimmy, j'ai 22 ans et j'habite dans le Val-d'Oise en région parisienne.
 
-Passionné d'informatique et de tech, j'ai d'abord entrepris un BTS SIO (Services Informatiques aux Organisations), puis, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile.
+Passionné d'informatique et de tech, je suis actuellement en Bachelor Développeur Web au sein de MyDigitalSchool Paris en alternance.
 
-Après cette formation, mon objectif est de trouver un stage, puis de continuer mes études en alternance.
+Après cette formation, mon objectif est de poursuivre sur un MBA Développeur FullStack.
+
+Je vous laisse découvrir l'ensemble de ma stack technique ainsi que quelques données à mon sujet.
 
 ## Technologies
 
