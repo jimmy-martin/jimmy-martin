@@ -88,7 +88,7 @@ Je vous laisse découvrir l'ensemble de ma stack technique ainsi que quelques do
 
 > 🏆 184 Contributions en 2022
  > 
-> 📦 65.7 kB Utilisés sur le stockage de GitHub 
+> 📦 65.6 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -160,7 +160,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2022 01:36:13 UTC
+ Last Updated on 05/12/2022 01:27:28 UTC
 <!--END_SECTION:waka-->
 
 
