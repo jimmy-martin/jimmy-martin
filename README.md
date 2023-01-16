@@ -82,7 +82,7 @@ Je vous laisse découvrir l'ensemble de ma stack technique ainsi que quelques do
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs%2026%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -159,7 +159,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2023 01:26:09 UTC
+ Last Updated on 16/01/2023 21:04:54 UTC
 <!--END_SECTION:waka-->
 
 
