@@ -25,7 +25,7 @@ Moi, c'est Jimmy, j'ai 22 ans et j'habite dans le Val-d'Oise en région parisien
 
 Passionné d'informatique et de tech, je suis actuellement en Bachelor Développeur Web au sein de MyDigitalSchool Paris en alternance.
 
-Après cette formation, mon objectif est de poursuivre sur un MBA Développeur FullStack.
+Après cette formation, mon objectif est de poursuivre sur un Mastère Développement au sein de l'école Sup de Vinci - La Défense.
 
 Je vous laisse découvrir l'ensemble de ma stack technique ainsi que quelques données à mon sujet.
 
