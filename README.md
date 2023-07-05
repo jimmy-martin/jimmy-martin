@@ -79,18 +79,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-HTML                     7 mins              █████████████████████████   98.67 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-projet-meteo             7 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -106,7 +104,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2023 01:51:47 UTC
+ Last Updated on 05/07/2023 01:49:52 UTC
 <!--END_SECTION:waka-->
 
 
