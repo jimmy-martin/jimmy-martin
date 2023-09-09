@@ -8,9 +8,7 @@ Bienvenue sur mon profil GitHub !
 
 Je m'appelle Jimmy, j'ai 23 ans et je suis un développeur web passionné résidant dans le Val-d'Oise, en région parisienne.
 
-Actuellement, je suis en Bachelor Développeur Web en alternance à l'école MyDigitalSchool Paris.
-
-Après cette formation, j'ai pour objectif de poursuivre mes études en Mastère Développement à Sup de Vinci - La Défense.
+Actuellement, je suis en Mastère Développement à Sup de Vinci - La Défense en alternance au sein du journal sportif L'Equipe.
 
 Découvrez ma stack technique et quelques informations me concernant.
 
