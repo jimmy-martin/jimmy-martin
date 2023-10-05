@@ -36,7 +36,7 @@ Découvrez ma stack technique et quelques informations me concernant.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C913%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%209%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -77,16 +77,19 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+HTML                     2 hrs 31 mins       █████████████████░░░░░░░░   66.11 % 
+Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+nolweb                   2 hrs 49 mins       ███████████████████░░░░░░   74.10 % 
+Privy                    59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -102,7 +105,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2023 01:14:04 UTC
+ Last Updated on 05/10/2023 01:13:42 UTC
 <!--END_SECTION:waka-->
 
 
