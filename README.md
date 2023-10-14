@@ -77,20 +77,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-SCSS                     2 hrs 55 mins       ████████████████░░░░░░░░░   63.37 % 
-HTML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-ActionScript 3           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Privy                    4 hrs 37 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -106,7 +102,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 01:14:02 UTC
+ Last Updated on 14/10/2023 01:10:29 UTC
 <!--END_SECTION:waka-->
 
 
