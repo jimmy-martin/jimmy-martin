@@ -77,16 +77,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Roff                     0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-jimmy                    0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -102,7 +102,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2023 01:11:57 UTC
+ Last Updated on 28/10/2023 01:10:42 UTC
 <!--END_SECTION:waka-->
 
 
