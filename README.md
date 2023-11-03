@@ -36,13 +36,13 @@ Découvrez ma stack technique et quelques informations me concernant.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2010%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 91.3 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 267 Contributions en 2023
+> 🏆 268 Contributions en 2023
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -77,32 +77,33 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+reStructuredText         5 mins              ████████████████████████░   96.97 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+solidity                 6 mins              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
 
 ```text
-PHP                      50 repos            ████████████░░░░░░░░░░░░░   48.08 % 
-JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+PHP                      50 repos            ████████████░░░░░░░░░░░░░   47.62 % 
+JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
 
 
- Last Updated on 01/11/2023 01:16:31 UTC
+ Last Updated on 03/11/2023 01:19:18 UTC
 <!--END_SECTION:waka-->
 
 
