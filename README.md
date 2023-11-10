@@ -77,17 +77,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-reStructuredText         5 mins              ████████████████████████░   96.97 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-solidity                 6 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -103,7 +102,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2023 01:19:02 UTC
+ Last Updated on 10/11/2023 01:18:37 UTC
 <!--END_SECTION:waka-->
 
 
