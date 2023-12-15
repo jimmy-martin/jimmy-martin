@@ -77,20 +77,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-TypeScript               47 mins             ███████████████████░░░░░░   76.93 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Astro                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-astro-ci-cd              1 hr 2 mins         █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -106,7 +102,7 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2023 01:20:34 UTC
+ Last Updated on 15/12/2023 01:22:12 UTC
 <!--END_SECTION:waka-->
 
 
