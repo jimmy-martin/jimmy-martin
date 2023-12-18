@@ -36,7 +36,7 @@ Découvrez ma stack technique et quelques informations me concernant.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2025%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -77,16 +77,17 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+JavaScript               5 mins              ██████████████████████░░░   89.33 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+hash_message             5 mins              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -102,7 +103,7 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2023 01:25:10 UTC
+ Last Updated on 18/12/2023 01:23:03 UTC
 <!--END_SECTION:waka-->
 
 
