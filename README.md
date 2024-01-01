@@ -42,7 +42,7 @@ Découvrez ma stack technique et quelques informations me concernant.
 
 > 📦 90.9 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 261 Contributions en 2023
+> 🏆 0 Contributions en 2024
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -102,7 +102,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 01:24:25 UTC
+ Last Updated on 01/01/2024 01:27:23 UTC
 <!--END_SECTION:waka-->
 
 
