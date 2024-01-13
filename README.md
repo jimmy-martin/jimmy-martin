@@ -77,18 +77,16 @@ Dimanche                 504 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      8 mins              ██████████████░░░░░░░░░░░   57.65 % 
-JavaScript               6 mins              ███████████░░░░░░░░░░░░░░   42.35 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-Unknown Project          11 mins             ██████████████████░░░░░░░   71.06 % 
-crypto-tracker           4 mins              ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -104,7 +102,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2024 01:23:48 UTC
+ Last Updated on 13/01/2024 01:21:13 UTC
 <!--END_SECTION:waka-->
 
 
