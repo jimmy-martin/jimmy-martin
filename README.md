@@ -40,7 +40,7 @@ Découvrez ma stack technique et quelques informations me concernant.
 
 **🐱 Mes données GitHub** 
 
-> 📦 90.9 kB Utilisés sur le stockage de GitHub 
+> 📦 91.0 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 0 Contributions en 2024
  > 
@@ -102,7 +102,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2024 01:27:18 UTC
+ Last Updated on 15/01/2024 01:24:00 UTC
 <!--END_SECTION:waka-->
 
 
