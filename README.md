@@ -17,8 +17,9 @@ Découvrez ma stack technique et quelques informations me concernant.
 - Langages de programmation : PHP, JavaScript, TypeScript
 - Frameworks : Symfony, NestJS, React (Next.js)
 - Bibliothèques front-end : Tailwindcss, Bootstrap
-- Base de données : MySQL
-- Outils : Heroku, Postman, Insomnia
+- Base de données : MySQL, SQL Server
+- Tests : PHPUnit, Behat
+- Outils : Docker, Heroku, Postman, Insomnia
 - Systèmes d'exploitation : macOS, Linux, Windows
 
 ## Me contacter
