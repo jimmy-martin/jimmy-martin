@@ -78,20 +78,16 @@ Dimanche                 501 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               1 hr 23 mins        ████████████████████████░   94.17 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-portfolio-alerter        1 hr 28 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -107,7 +103,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2024 01:20:07 UTC
+ Last Updated on 04/03/2024 01:16:02 UTC
 <!--END_SECTION:waka-->
 
 
