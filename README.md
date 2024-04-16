@@ -6,7 +6,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Jimmy, j'ai 23 ans et je suis un développeur web passionné résidant dans le Val-d'Oise, en région parisienne.
+Je m'appelle Jimmy, j'ai 24 ans et je suis un développeur web passionné résidant dans le Val-d'Oise, en région parisienne.
 
 Actuellement, je suis en Mastère Développement à Sup de Vinci - La Défense en alternance au sein du journal sportif L'Equipe.
 
