@@ -37,11 +37,13 @@ Découvrez ma stack technique et quelques informations me concernant.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2048%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 100.3 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 170 Contributions en 2024
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -76,9 +78,9 @@ Dimanche                 507 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-TypeScript               1 hr 21 mins        ████████████████████████░   97.12 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               1 hr 22 mins        ████████████████████████░   97.14 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Éditeurs de code: 
@@ -105,7 +107,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 01:22:02 UTC
+ Last Updated on 18/05/2024 01:22:21 UTC
 <!--END_SECTION:waka-->
 
 
