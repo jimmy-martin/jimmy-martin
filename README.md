@@ -78,17 +78,16 @@ Dimanche                 510 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Python                   0 secs              ██████████████░░░░░░░░░░░   55.23 % 
-Text                     0 secs              ███████████░░░░░░░░░░░░░░   44.77 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-instamint                0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -104,7 +103,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 01:25:14 UTC
+ Last Updated on 01/06/2024 01:27:35 UTC
 <!--END_SECTION:waka-->
 
 
