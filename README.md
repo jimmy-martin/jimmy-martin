@@ -43,6 +43,8 @@ Découvrez ma stack technique et quelques informations me concernant.
 
 > 📦 100.3 kB Utilisés sur le stockage de GitHub 
  > 
+> 🏆 195 Contributions en 2024
+ > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 39 dépots publiques 
@@ -101,7 +103,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 01:24:58 UTC
+ Last Updated on 14/06/2024 01:25:19 UTC
 <!--END_SECTION:waka-->
 
 
