@@ -39,5 +39,5 @@ Découvrez ma stack technique et quelques informations me concernant.
 <br>
 <br>
 <div align="center">
-    <img src="https://github.com/Yashiru/Yashiru/blob/main/profile-3d-contrib/profile.svg">
+    <img src="https://github.com/jimmy-martin/jimmy-martin/blob/main/profile-3d-contrib/profile.svg">
 </div>
