@@ -32,10 +32,9 @@ Découvrez ma stack technique et quelques informations me concernant.
 
 ## Statistiques de programmation
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-martin&layout=compact"/>
-</a>
-
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jimmy-martin&theme=github-dark&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
+<div>
 <br>
 <br>
 <div align="center">
